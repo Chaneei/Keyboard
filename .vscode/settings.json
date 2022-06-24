@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": true,
+  //저장할때 포맷
+  "editor.codeActionsOnSave": {
+    //save될 시 eslint룰대로 fix함
+    "source.fixAll.eslint": true
+  }
+}
